@@ -1,0 +1,8 @@
+geoshops/
+*.log
+*.pot
+*.pyc
+__pycache__
+media
+Lib/
+Scripts/
